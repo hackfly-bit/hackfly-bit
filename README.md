@@ -4,9 +4,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Laravel+Expert;Web+%26+App+Consultant;Founder+%40+Aneramedia;5%2B+Years+of+Experience)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fajrunnadhif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hackfly-bit)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aneramedia.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fajrun@aneramedia.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hackfly@aneramedia.com)
 
 </div>
 
@@ -71,25 +71,25 @@ I'm a passionate **Backend Developer** with **5+ years of experience** specializ
 
 <div align="center">
 
-![Fajrun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajrunnadhif&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Hackfly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hackfly-bit&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrunnadhif&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackfly-bit&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fajrunnadhif&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hackfly-bit&theme=radical&hide_border=true)
 
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=fajrunnadhif&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=hackfly-bit&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fajrunnadhif&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hackfly-bit&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -113,8 +113,8 @@ As the founder of Aneramedia, I lead a team focused on delivering high-quality d
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fajrunnadhif)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:fajrun@aneramedia.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hackfly-bit)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:hackfly@aneramedia.com)
 [![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=google-chrome)](https://aneramedia.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/your-number)
 
@@ -126,8 +126,8 @@ As the founder of Aneramedia, I lead a team focused on delivering high-quality d
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=fajrunnadhif&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/fajrunnadhif?label=Follow&style=social)](https://github.com/fajrunnadhif)
+![Profile Views](https://komarev.com/ghpvc/?username=hackfly-bit&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/hackfly-bit?label=Follow&style=social)](https://github.com/hackfly-bit)
 
 *⭐ Star my repositories if you find them helpful!*
 
