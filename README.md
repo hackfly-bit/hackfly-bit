@@ -193,9 +193,8 @@ Aneramedia helps businesses turn operations into software they can run.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hackfly-bit&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackfly-bit&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<img src="./assets/github-stats.svg" alt="GitHub Stats" />
+<img src="./assets/top-langs.svg" alt="Top Languages" />
 
 </div>
 
