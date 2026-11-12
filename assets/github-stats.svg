@@ -6,10 +6,10 @@
 <text x="46" y="68" fill="#f8f8f2" font-size="18" font-weight="600" font-family="Segoe UI, Ubuntu, Sans-Serif">1</text>
 <circle cx="250" cy="50" r="4" fill="#fe428e"/>
 <text x="264" y="46" fill="#a9fef7" font-size="13" font-weight="400" font-family="Segoe UI, Ubuntu, Sans-Serif">Total Commits</text>
-<text x="264" y="68" fill="#f8f8f2" font-size="18" font-weight="600" font-family="Segoe UI, Ubuntu, Sans-Serif">1,191</text>
+<text x="264" y="68" fill="#f8f8f2" font-size="18" font-weight="600" font-family="Segoe UI, Ubuntu, Sans-Serif">305</text>
 <circle cx="32" cy="100" r="4" fill="#f8d847"/>
 <text x="46" y="96" fill="#a9fef7" font-size="13" font-weight="400" font-family="Segoe UI, Ubuntu, Sans-Serif">Total PRs</text>
-<text x="46" y="118" fill="#f8f8f2" font-size="18" font-weight="600" font-family="Segoe UI, Ubuntu, Sans-Serif">51</text>
+<text x="46" y="118" fill="#f8f8f2" font-size="18" font-weight="600" font-family="Segoe UI, Ubuntu, Sans-Serif">12</text>
 <circle cx="250" cy="100" r="4" fill="#fe428e"/>
 <text x="264" y="96" fill="#a9fef7" font-size="13" font-weight="400" font-family="Segoe UI, Ubuntu, Sans-Serif">Total Issues</text>
 <text x="264" y="118" fill="#f8f8f2" font-size="18" font-weight="600" font-family="Segoe UI, Ubuntu, Sans-Serif">1</text>
